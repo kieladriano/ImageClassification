@@ -7,6 +7,7 @@ The objective of this exercise is to classify the box images whether it is a 'go
 The notebook was created using Python 3 notebook of Google Colab which runs Python 3.6 at its backend.
 
 Modules:
+
 tensorflow (Version: 1.13.1)
 
 `pip install --upgrade tensorflow`
