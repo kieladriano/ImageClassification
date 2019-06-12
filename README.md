@@ -52,7 +52,7 @@ This is the python script used to generate the final model after the model selec
 
 #### modelpredict.py 
 
-This is the python script used to predict using the model from *finalmodel.py.*
+This is the python script used to predict using the model from *finalmodel.py.* It was designed to check one image at a time, this can be undone by not reducing the dimensions during pre-processing.
 
 
 
