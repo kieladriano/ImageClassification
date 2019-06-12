@@ -2,27 +2,33 @@
 
 Classify the box images whether it is a 'good' or a 'bad'using Convolutional Neural Networks (CNN) while discussingthe CNN models used and model selection process.
 
-# Installation
+## Installation
 
 The notebook was created using Python 3 notebook of Google Colab which runs Python 3.6 at its backend.
 
 Modules:
 tensorflow (Version: 1.13.1)
+
 `pip install --upgrade tensorflow`
 
 keras (Version: 2.2.4)
+
 `pip install keras`
 
 pandas (Version: 0.24.2)
+
 'pip install pandas`
 
 numpy (Version: 1.16.4)
+
 `pip install numpy`
 
 matplotlib (Version: 3.0.3)
+
 `pip install matplotlib`
 
 cv2 (Version:3.4.3)
+
 `pip install opencv-python`
 
 
