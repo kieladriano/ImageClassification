@@ -43,7 +43,12 @@ The Notebook contains all the codes with discussions on the project objectives, 
 
 #### finalmodel.py 
 
-This is the python script used to generate the final model after the model selection process. This will yield the same result as the other model scripts as seen in the notebook
+This is the python script used to generate the final model after the model selection process. This will yield the same result as the other model scripts as seen in the notebook: 
+
+  * backend model layers
+  * metrics (loss, accuracy, validation loss , and validation accuracy) per epoch
+  * run time during model fitting
+  * saving weights/model
 
 #### modelpredict.py 
 
