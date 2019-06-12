@@ -6,31 +6,31 @@ The objective of this exercise is to classify the box images whether it is a 'go
 
 The notebook was created using Python 3 notebook of Google Colab which runs Python 3.6 at its backend.
 
-Modules:
+### Modules:
 
-tensorflow (Version: 1.13.1)
+ * *tensorflow (Version: 1.13.1)*
 
-`pip install --upgrade tensorflow`
+      `pip install --upgrade tensorflow`
 
-keras (Version: 2.2.4)
+ * *keras (Version: 2.2.4)*
 
-`pip install keras`
+      `pip install keras`
 
-pandas (Version: 0.24.2)
+ * *pandas (Version: 0.24.2)*
 
-`pip install pandas`
+      `pip install pandas`
 
-numpy (Version: 1.16.4)
+ * *numpy (Version: 1.16.4)*
 
-`pip install numpy`
+      `pip install numpy`
 
-matplotlib (Version: 3.0.3)
+* *matplotlib (Version: 3.0.3)*
 
-`pip install matplotlib`
+      `pip install matplotlib`
 
-cv2 (Version:3.4.3)
+* *cv2 (Version: 3.4.3)*
 
-`pip install opencv-python`
+      `pip install opencv-python`
 
 
 ## Usage
