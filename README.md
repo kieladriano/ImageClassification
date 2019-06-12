@@ -34,9 +34,10 @@ cv2 (Version:3.4.3)
 
 ## Usage
 
-#### ImageClassification.ipynb notebook
+#### ImageClassification.ipynb 
 
-This contains all the codes with discussions on the project objectives, methodology and results. The codes in the notebooks are in chunks so that whenever the user will only run one chunk of code, all packages that needs to be loaded are sure in the code.
+The Notebook contains all the codes with discussions on the project objectives, methodology and results. The codes in the notebook are in chunks so that whenever the user will only run one chunk of code, all packages that needs to be loaded are sure in the code.
+
 
 #### finalmodel.py 
 
