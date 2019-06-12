@@ -34,13 +34,16 @@ cv2 (Version:3.4.3)
 
 ## Usage
 
-####ImageClassification.ipynb notebook
+#### ImageClassification.ipynb notebook
+
 This contains all the codes with discussions on the project objectives, methodology and results. The codes in the notebooks are in chunks so that whenever the user will only run one chunk of code, all packages that needs to be loaded are sure in the code.
 
-####finalmodel.py 
+#### finalmodel.py 
+
 This is the python script used to generate the final model after the model selection process. This will yield the same result as the other model scripts as seen in the notebook
 
-####modelpredict.py 
+#### modelpredict.py 
+
 This is the python script used to predict using the model from *finalmodel.py.*
 
 
