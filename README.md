@@ -1,4 +1,4 @@
-# ImageClassificationTest
+# Image Classification using Convolutional Neural Networks
 
 Classify the box images whether it is a 'good' or a 'bad'using Convolutional Neural Networks (CNN) while discussingthe CNN models used and model selection process.
 
