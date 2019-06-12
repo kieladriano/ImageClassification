@@ -17,7 +17,7 @@ keras (Version: 2.2.4)
 
 pandas (Version: 0.24.2)
 
-'pip install pandas`
+`pip install pandas`
 
 numpy (Version: 1.16.4)
 
@@ -32,7 +32,7 @@ cv2 (Version:3.4.3)
 `pip install opencv-python`
 
 
-#Usage
+## Usage
 
 ####ImageClassification.ipynb notebook
 This contains all the codes with discussions on the project objectives, methodology and results. The codes in the notebooks are in chunks so that whenever the user will only run one chunk of code, all packages that needs to be loaded are sure in the code.
